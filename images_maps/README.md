@@ -2,85 +2,92 @@
 [Иконки](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_icons/README.md) |
 [Эффекты](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_sfx/README.md) |
 [Музыка](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/music/README.md) |
+[Карты](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_maps/README.md) |
+[Арты](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_arts/README.md) |
 <table><tr>
 <tr>
 <td valign="bottom">
-<img src="./0.png" width="100" height="100"><br>
-0.png
+<img src="./Бастион а1.jpg" width="100" height="100"><br>
+Бастион а1.jpg
 </td>
 
 <td valign="bottom">
-<img src="./1.png" width="100" height="100"><br>
-1.png
+<img src="./Бастион а2.jpg" width="100" height="100"><br>
+Бастион а2.jpg
 </td>
 
 <td valign="bottom">
-<img src="./15_-removebg-preview.png" width="100" height="100"><br>
-15_-removebg-preview.png
+<img src="./Вершина Башни.png" width="100" height="100"><br>
+Вершина Башни.png
 </td>
 
 <td valign="bottom">
-<img src="./2.png" width="100" height="100"><br>
-2.png
+<img src="./Джунгли 0.mp4" width="100" height="100"><br>
+Джунгли 0.mp4
 </td>
 
 <td valign="bottom">
-<img src="./3.png" width="100" height="100"><br>
-3.png
+<img src="./Джунгли 1.jpg" width="100" height="100"><br>
+Джунгли 1.jpg
 </td>
 
 <td valign="bottom">
-<img src="./4.png" width="100" height="100"><br>
-4.png
-</td>
-
-</tr>
-<tr>
-<td valign="bottom">
-<img src="./5.png" width="100" height="100"><br>
-5.png
-</td>
-
-<td valign="bottom">
-<img src="./Image060.png" width="100" height="100"><br>
-Image060.png
-</td>
-
-<td valign="bottom">
-<img src="./Image061.png" width="100" height="100"><br>
-Image061.png
-</td>
-
-<td valign="bottom">
-<img src="./token_1_14.png" width="100" height="100"><br>
-token_1_14.png
-</td>
-
-<td valign="bottom">
-<img src="./token_1_20.png" width="100" height="100"><br>
-token_1_20.png
-</td>
-
-<td valign="bottom">
-<img src="./token_2_7.png" width="100" height="100"><br>
-token_2_7.png
+<img src="./Джунгли 2.jpg" width="100" height="100"><br>
+Джунгли 2.jpg
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./token_2_8.png" width="100" height="100"><br>
-token_2_8.png
+<img src="./Джунгли 3.jpg" width="100" height="100"><br>
+Джунгли 3.jpg
 </td>
 
 <td valign="bottom">
-<img src="./token_3_3.png" width="100" height="100"><br>
-token_3_3.png
+<img src="./ЗмеиныйПик.jpg" width="100" height="100"><br>
+ЗмеиныйПик.jpg
 </td>
 
 <td valign="bottom">
-<img src="./token_4_2.png" width="100" height="100"><br>
-token_4_2.png
+<img src="./Золотой Город.jpg" width="100" height="100"><br>
+Золотой Город.jpg
+</td>
+
+<td valign="bottom">
+<img src="./Карета.jpg" width="100" height="100"><br>
+Карета.jpg
+</td>
+
+<td valign="bottom">
+<img src="./Корабль.jpg" width="100" height="100"><br>
+Корабль.jpg
+</td>
+
+<td valign="bottom">
+<img src="./Логово Зелёной а1.jpg" width="100" height="100"><br>
+Логово Зелёной а1.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Логово Зелёной а2.jpg" width="100" height="100"><br>
+Логово Зелёной а2.jpg
+</td>
+
+<td valign="bottom">
+<img src="./Ниирдал-Пок.jpg" width="100" height="100"><br>
+Ниирдал-Пок.jpg
+</td>
+
+<td valign="bottom">
+<img src="./Подножье Башни.jpg" width="100" height="100"><br>
+Подножье Башни.jpg
+</td>
+
+<td valign="bottom">
+<img src="./Рифемист.jpeg" width="100" height="100"><br>
+Рифемист.jpeg
 </td>
 
 </tr></table>
