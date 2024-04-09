@@ -6,7 +6,7 @@ Token and text storage for roll20\
 |
 [Эффекты](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_sfx/README.md)
 |
-[Музыка](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/music/README.md)
+[Музыка](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/music/)
 |
 [Карты](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_maps/README.md)
 |
