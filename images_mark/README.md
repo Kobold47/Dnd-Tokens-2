@@ -6,7 +6,7 @@
 <tr>
 <td valign="bottom">
 <img src="./0.png" width="100" height="100"><br>
-0.png
+Тень.png
 </td>
 
 <td valign="bottom">
