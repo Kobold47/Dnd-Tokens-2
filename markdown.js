@@ -15,6 +15,8 @@ mdContent += ` |
 mdContent += ` |
 [Эффекты](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_sfx/README.md)`;
 mdContent += ` |
+[Музыка](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/music/README.md)`;
+mdContent += ` |
 <table><tr>`;
 
 
