@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const image_folder = [];
-image_folder.push("./images_sfx/", "./images_icons/", "./images_mark/");
+image_folder.push("./images_sfx/", "./images_icons/","./images_maps/","./images_arts/", "./images_mark/");
 const ROOT_DIR = './images_';
 const README_FILENAME = 'README.md';
 const NB_IMAGES_PER_LINE = 6;
@@ -16,6 +16,10 @@ mdContent += ` |
 [Эффекты](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_sfx/README.md)`;
 mdContent += ` |
 [Музыка](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/music/README.md)`;
+mdContent += ` |
+[Карты](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_maps/README.md)`;
+mdContent += ` |
+[Арты](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_arts/README.md)`;
 mdContent += ` |
 <table><tr>`;
 
