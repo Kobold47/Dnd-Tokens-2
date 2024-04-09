@@ -33,4 +33,11 @@ token_3_3.png
 token_4_2.png
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Зелье.jpg" width="100" height="100"><br>
+Зелье.jpg
+</td>
+
 </tr></table>
