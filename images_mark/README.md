@@ -1,11 +1,7 @@
 [Основные Токены](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_mark/README.md) |
 [Иконки](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_icons/README.md) |
 [Эффекты](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_sfx/README.md) |
-<<<<<<< Updated upstream
 [Музыка](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/music/) |
-=======
-[Музыка](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/music/README.md) |
->>>>>>> Stashed changes
 [Карты](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_maps/README.md) |
 [Арты](https://github.com/Kobold47/Dnd-Tokens-2/blob/main/images_arts/README.md) |
 <table><tr>
@@ -68,12 +64,17 @@ token_1_20.png
 </td>
 
 <td valign="bottom">
-<img src="./token_2_7.png" width="100" height="100"><br>
-token_2_7.png
+<img src="./token_1_6 (3).png" width="100" height="100"><br>
+token_1_6 (3).png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./token_2_7.png" width="100" height="100"><br>
+token_2_7.png
+</td>
+
 <td valign="bottom">
 <img src="./token_2_8.png" width="100" height="100"><br>
 token_2_8.png

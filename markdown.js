@@ -23,7 +23,6 @@ mdContent += ` |
 mdContent += ` |
 <table><tr>`;
 
-=
 
 fs.readdirSync(element).forEach((image) => {
   if (image !== README_FILENAME && image !== 'markdown.js') {
