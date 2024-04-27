@@ -44,6 +44,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Джунгли 4.jpg" width="100" height="100"><br>
+Джунгли 4.jpg
+</td>
+
+<td valign="bottom">
 <img src="./ЗмеиныйПик.jpg" width="100" height="100"><br>
 ЗмеиныйПик.jpg
 </td>
@@ -63,13 +68,13 @@
 Корабль.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Логово Зелёной а1.jpg" width="100" height="100"><br>
 Логово Зелёной а1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Логово Зелёной а2.jpg" width="100" height="100"><br>
 Логово Зелёной а2.jpg
