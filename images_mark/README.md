@@ -49,11 +49,6 @@ Image060.png
 </td>
 
 <td valign="bottom">
-<img src="./Image061.png" width="100" height="100"><br>
-Image061.png
-</td>
-
-<td valign="bottom">
 <img src="./token_1_14.png" width="100" height="100"><br>
 token_1_14.png
 </td>
@@ -64,13 +59,6 @@ token_1_20.png
 </td>
 
 <td valign="bottom">
-<img src="./token_1_6 (3).png" width="100" height="100"><br>
-token_1_6 (3).png
-</td>
-
-</tr>
-<tr>
-<td valign="bottom">
 <img src="./token_2_7.png" width="100" height="100"><br>
 token_2_7.png
 </td>
@@ -80,6 +68,8 @@ token_2_7.png
 token_2_8.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_3_3.png" width="100" height="100"><br>
 token_3_3.png
@@ -88,6 +78,21 @@ token_3_3.png
 <td valign="bottom">
 <img src="./token_4_2.png" width="100" height="100"><br>
 token_4_2.png
+</td>
+
+<td valign="bottom">
+<img src="./Блужд.png" width="100" height="100"><br>
+Блужд.png
+</td>
+
+<td valign="bottom">
+<img src="./Зорбо.png" width="100" height="100"><br>
+Зорбо.png
+</td>
+
+<td valign="bottom">
+<img src="./Тито.png" width="100" height="100"><br>
+Тито.png
 </td>
 
 </tr></table>
