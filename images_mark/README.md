@@ -7,82 +7,45 @@
 <table><tr>
 <tr>
 <td valign="bottom">
-<img src="./0.png" width="100" height="100"><br>
-0.png
+<img src="./Альфон.png" width="100" height="100"><br>
+Альфон.png
 </td>
 
 <td valign="bottom">
-<img src="./1.png" width="100" height="100"><br>
-1.png
+<img src="./Блуждающий огонёк.png" width="100" height="100"><br>
+Блуждающий огонёк.png
 </td>
 
 <td valign="bottom">
-<img src="./15_-removebg-preview.png" width="100" height="100"><br>
-15_-removebg-preview.png
+<img src="./Венцед.False.png" width="100" height="100"><br>
+Венцед.False.png
 </td>
 
 <td valign="bottom">
-<img src="./2.png" width="100" height="100"><br>
-2.png
+<img src="./Вильям.png" width="100" height="100"><br>
+Вильям.png
 </td>
 
 <td valign="bottom">
-<img src="./3.png" width="100" height="100"><br>
-3.png
+<img src="./Водалиций.png" width="100" height="100"><br>
+Водалиций.png
 </td>
 
 <td valign="bottom">
-<img src="./4.png" width="100" height="100"><br>
-4.png
-</td>
-
-</tr>
-<tr>
-<td valign="bottom">
-<img src="./5.png" width="100" height="100"><br>
-5.png
-</td>
-
-<td valign="bottom">
-<img src="./Image060.png" width="100" height="100"><br>
-Image060.png
-</td>
-
-<td valign="bottom">
-<img src="./token_1_14.png" width="100" height="100"><br>
-token_1_14.png
-</td>
-
-<td valign="bottom">
-<img src="./token_1_20.png" width="100" height="100"><br>
-token_1_20.png
-</td>
-
-<td valign="bottom">
-<img src="./token_2_7.png" width="100" height="100"><br>
-token_2_7.png
-</td>
-
-<td valign="bottom">
-<img src="./token_2_8.png" width="100" height="100"><br>
-token_2_8.png
+<img src="./Генрих.png" width="100" height="100"><br>
+Генрих.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./token_3_3.png" width="100" height="100"><br>
-token_3_3.png
+<img src="./Дракон.Зел.png" width="100" height="100"><br>
+Дракон.Зел.png
 </td>
 
 <td valign="bottom">
-<img src="./token_4_2.png" width="100" height="100"><br>
-token_4_2.png
-</td>
-
-<td valign="bottom">
-<img src="./Блужд.png" width="100" height="100"><br>
-Блужд.png
+<img src="./Жасмин.png" width="100" height="100"><br>
+Жасмин.png
 </td>
 
 <td valign="bottom">
@@ -91,8 +54,45 @@ token_4_2.png
 </td>
 
 <td valign="bottom">
-<img src="./Тито.png" width="100" height="100"><br>
-Тито.png
+<img src="./Мисая.png" width="100" height="100"><br>
+Мисая.png
+</td>
+
+<td valign="bottom">
+<img src="./Н.а.к.р.png" width="100" height="100"><br>
+Н.а.к.р.png
+</td>
+
+<td valign="bottom">
+<img src="./Севен.png" width="100" height="100"><br>
+Севен.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Тень.png" width="100" height="100"><br>
+Тень.png
+</td>
+
+<td valign="bottom">
+<img src="./Фауналин.png" width="100" height="100"><br>
+Фауналин.png
+</td>
+
+<td valign="bottom">
+<img src="./Флора.png" width="100" height="100"><br>
+Флора.png
+</td>
+
+<td valign="bottom">
+<img src="./Хеки.png" width="100" height="100"><br>
+Хеки.png
+</td>
+
+<td valign="bottom">
+<img src="./Элис.png" width="100" height="100"><br>
+Элис.png
 </td>
 
 </tr></table>
