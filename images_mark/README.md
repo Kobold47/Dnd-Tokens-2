@@ -64,12 +64,17 @@
 </td>
 
 <td valign="bottom">
-<img src="./Севен.png" width="100" height="100"><br>
-Севен.png
+<img src="./Панцирница.png" width="100" height="100"><br>
+Панцирница.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./Севен.png" width="100" height="100"><br>
+Севен.png
+</td>
+
 <td valign="bottom">
 <img src="./Тень.png" width="100" height="100"><br>
 Тень.png

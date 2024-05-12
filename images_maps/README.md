@@ -54,6 +54,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Джунгли 5.jpg" width="100" height="100"><br>
+Джунгли 5.jpg
+</td>
+
+<td valign="bottom">
 <img src="./ЗмеиныйПик.jpg" width="100" height="100"><br>
 ЗмеиныйПик.jpg
 </td>
@@ -63,13 +68,13 @@
 Золотой Город.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Карета.jpg" width="100" height="100"><br>
 Карета.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Корабль.jpg" width="100" height="100"><br>
 Корабль.jpg
@@ -95,6 +100,8 @@
 Подножье Башни.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Рифемист.jpeg" width="100" height="100"><br>
 Рифемист.jpeg
