@@ -22,6 +22,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./ВердаСкел.png" width="100" height="100"><br>
+ВердаСкел.png
+</td>
+
+<td valign="bottom">
 <img src="./Вильям.png" width="100" height="100"><br>
 Вильям.png
 </td>
@@ -31,13 +36,13 @@
 Водалиций.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Генрих.png" width="100" height="100"><br>
 Генрих.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Дракон.Зел.png" width="100" height="100"><br>
 Дракон.Зел.png
@@ -63,13 +68,13 @@
 Н.а.к.р.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Панцирница.png" width="100" height="100"><br>
 Панцирница.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Севен.png" width="100" height="100"><br>
 Севен.png
@@ -95,6 +100,8 @@
 Хеки.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Элис.png" width="100" height="100"><br>
 Элис.png
