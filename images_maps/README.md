@@ -59,17 +59,22 @@
 </td>
 
 <td valign="bottom">
+<img src="./Джунгли 6.jpg" width="100" height="100"><br>
+Джунгли 6.jpg
+</td>
+
+<td valign="bottom">
 <img src="./ЗмеиныйПик.jpg" width="100" height="100"><br>
 ЗмеиныйПик.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Золотой Город.jpg" width="100" height="100"><br>
 Золотой Город.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Карета.jpg" width="100" height="100"><br>
 Карета.jpg
@@ -95,13 +100,13 @@
 Ниирдал-Пок.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Подножье Башни.jpg" width="100" height="100"><br>
 Подножье Башни.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Рифемист.jpeg" width="100" height="100"><br>
 Рифемист.jpeg
