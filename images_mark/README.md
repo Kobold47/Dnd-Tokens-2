@@ -17,6 +17,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Бочка.png" width="100" height="100"><br>
+Бочка.png
+</td>
+
+<td valign="bottom">
 <img src="./Венцед.False.png" width="100" height="100"><br>
 Венцед.False.png
 </td>
@@ -31,16 +36,21 @@
 Вильям.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Водалиций.png" width="100" height="100"><br>
 Водалиций.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Генрих.png" width="100" height="100"><br>
 Генрих.png
+</td>
+
+<td valign="bottom">
+<img src="./Дарк.png" width="100" height="100"><br>
+Дарк.png
 </td>
 
 <td valign="bottom">
@@ -58,9 +68,16 @@
 Зорбо.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Мисая.png" width="100" height="100"><br>
 Мисая.png
+</td>
+
+<td valign="bottom">
+<img src="./монах.png" width="100" height="100"><br>
+монах.png
 </td>
 
 <td valign="bottom">
@@ -68,11 +85,14 @@
 Н.а.к.р.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Панцирница.png" width="100" height="100"><br>
 Панцирница.png
+</td>
+
+<td valign="bottom">
+<img src="./плут.png" width="100" height="100"><br>
+плут.png
 </td>
 
 <td valign="bottom">
@@ -80,9 +100,16 @@
 Поглотитель.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Севен.png" width="100" height="100"><br>
 Севен.png
+</td>
+
+<td valign="bottom">
+<img src="./Сорен.png" width="100" height="100"><br>
+Сорен.png
 </td>
 
 <td valign="bottom">
@@ -100,13 +127,13 @@
 Флора.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Хеки.png" width="100" height="100"><br>
 Хеки.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Элис.png" width="100" height="100"><br>
 Элис.png

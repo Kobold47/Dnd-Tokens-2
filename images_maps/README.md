@@ -86,6 +86,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Корабль.png" width="100" height="100"><br>
+Корабль.png
+</td>
+
+<td valign="bottom">
 <img src="./Логово Зелёной а1.jpg" width="100" height="100"><br>
 Логово Зелёной а1.jpg
 </td>
@@ -95,13 +100,13 @@
 Логово Зелёной а2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Ниирдал-Пок.jpg" width="100" height="100"><br>
 Ниирдал-Пок.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Подножье Башни.jpg" width="100" height="100"><br>
 Подножье Башни.jpg
