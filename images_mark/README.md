@@ -113,6 +113,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Табакси.png" width="100" height="100"><br>
+Табакси.png
+</td>
+
+<td valign="bottom">
 <img src="./Тень.png" width="100" height="100"><br>
 Тень.png
 </td>
@@ -127,13 +132,13 @@
 Флора.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Хеки.png" width="100" height="100"><br>
 Хеки.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Элис.png" width="100" height="100"><br>
 Элис.png
