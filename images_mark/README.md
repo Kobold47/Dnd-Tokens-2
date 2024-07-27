@@ -108,8 +108,18 @@
 </td>
 
 <td valign="bottom">
+<img src="./Повар.png" width="100" height="100"><br>
+Повар.png
+</td>
+
+<td valign="bottom">
 <img src="./Поглотитель.png" width="100" height="100"><br>
 Поглотитель.png
+</td>
+
+<td valign="bottom">
+<img src="./ПодДавлением.png" width="100" height="100"><br>
+ПодДавлением.png
 </td>
 
 <td valign="bottom">
@@ -122,6 +132,8 @@
 Сорен.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Табакси.png" width="100" height="100"><br>
 Табакси.png
@@ -132,8 +144,6 @@
 Тень.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Фауналин.png" width="100" height="100"><br>
 Фауналин.png
