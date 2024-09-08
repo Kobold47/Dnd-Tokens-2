@@ -108,6 +108,16 @@
 </td>
 
 <td valign="bottom">
+<img src="./Подземье 1.jpg" width="100" height="100"><br>
+Подземье 1.jpg
+</td>
+
+<td valign="bottom">
+<img src="./Подземье 2.jpg" width="100" height="100"><br>
+Подземье 2.jpg
+</td>
+
+<td valign="bottom">
 <img src="./Подножье Башни.jpg" width="100" height="100"><br>
 Подножье Башни.jpg
 </td>
