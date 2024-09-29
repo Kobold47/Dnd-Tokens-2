@@ -39,6 +39,11 @@
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./Виверна.png" width="100" height="100"><br>
+Виверна.png
+</td>
+
+<td valign="bottom">
 <img src="./Вильям.png" width="100" height="100"><br>
 Вильям.png
 </td>
@@ -63,13 +68,13 @@
 Дракон.Зел.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Жасмин.png" width="100" height="100"><br>
 Жасмин.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Зорбо.png" width="100" height="100"><br>
 Зорбо.png
@@ -81,10 +86,22 @@
 </td>
 
 <td valign="bottom">
+<img src="./Мимик 1.png" width="100" height="100"><br>
+Мимик 1.png
+</td>
+
+<td valign="bottom">
+<img src="./Мимик 2.png" width="100" height="100"><br>
+Мимик 2.png
+</td>
+
+<td valign="bottom">
 <img src="./Мисая.png" width="100" height="100"><br>
 Мисая.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./монах.png" width="100" height="100"><br>
 монах.png
@@ -96,12 +113,15 @@
 </td>
 
 <td valign="bottom">
+<img src="./Панцирница Нежить.png" width="100" height="100"><br>
+Панцирница Нежить.png
+</td>
+
+<td valign="bottom">
 <img src="./Панцирница.png" width="100" height="100"><br>
 Панцирница.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Пират1.png" width="100" height="100"><br>
 Пират1.png
@@ -112,6 +132,8 @@
 Пират2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./плут.png" width="100" height="100"><br>
 плут.png
@@ -132,8 +154,6 @@
 ПодДавлением.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Севен.png" width="100" height="100"><br>
 Севен.png
@@ -144,6 +164,8 @@
 Сорен.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Табакси.png" width="100" height="100"><br>
 Табакси.png
@@ -164,8 +186,6 @@
 Феламелочка.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Флора.png" width="100" height="100"><br>
 Флора.png
@@ -176,9 +196,21 @@
 Хеки.png
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Чато1.png" width="100" height="100"><br>
+Чато1.png
+</td>
+
 <td valign="bottom">
 <img src="./Элис.png" width="100" height="100"><br>
 Элис.png
+</td>
+
+<td valign="bottom">
+<img src="./Элис2.png" width="100" height="100"><br>
+Элис2.png
 </td>
 
 </tr></table>

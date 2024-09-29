@@ -516,4 +516,11 @@ xiaoji-gugu-07111.jpg
 апра.jpg
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Врата.png" width="100" height="100"><br>
+Врата.png
+</td>
+
 </tr></table>
