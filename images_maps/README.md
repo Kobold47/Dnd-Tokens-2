@@ -22,6 +22,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Город 1.jpg" width="100" height="100"><br>
+Город 1.jpg
+</td>
+
+<td valign="bottom">
 <img src="./Джунгли 0.mp4" width="100" height="100"><br>
 Джунгли 0.mp4
 </td>
@@ -31,13 +36,13 @@
 Джунгли 1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Джунгли 2.jpg" width="100" height="100"><br>
 Джунгли 2.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Джунгли 3.jpg" width="100" height="100"><br>
 Джунгли 3.jpg
@@ -63,13 +68,18 @@
 Джунгли 6.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ЗмеиныйПик.jpg" width="100" height="100"><br>
 ЗмеиныйПик.jpg
 </td>
 
-</tr>
-<tr>
+<td valign="bottom">
+<img src="./Золотой Город 2.jpg" width="100" height="100"><br>
+Золотой Город 2.jpg
+</td>
+
 <td valign="bottom">
 <img src="./Золотой Город.jpg" width="100" height="100"><br>
 Золотой Город.jpg
@@ -90,6 +100,8 @@
 Корабль.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Логово Зелёной а1.jpg" width="100" height="100"><br>
 Логово Зелёной а1.jpg
@@ -100,8 +112,6 @@
 Логово Зелёной а2.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Ниирдал-Пок.jpg" width="100" height="100"><br>
 Ниирдал-Пок.jpg
@@ -122,6 +132,8 @@
 Подножье Башни.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Рифемист.jpeg" width="100" height="100"><br>
 Рифемист.jpeg
