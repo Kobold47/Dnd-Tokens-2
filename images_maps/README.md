@@ -91,20 +91,20 @@
 </td>
 
 <td valign="bottom">
-<img src="./Корабль.jpg" width="100" height="100"><br>
-Корабль.jpg
+<img src="./Корабль 2.jpeg" width="100" height="100"><br>
+Корабль 2.jpeg
 </td>
 
 <td valign="bottom">
-<img src="./Корабль.png" width="100" height="100"><br>
-Корабль.png
+<img src="./Корабль.jpg" width="100" height="100"><br>
+Корабль.jpg
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./Корабль2.jpg" width="100" height="100"><br>
-Корабль2.jpg
+<img src="./Корабль.png" width="100" height="100"><br>
+Корабль.png
 </td>
 
 <td valign="bottom">
