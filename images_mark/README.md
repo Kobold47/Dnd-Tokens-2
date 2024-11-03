@@ -155,6 +155,18 @@
 </td>
 
 <td valign="bottom">
+<img src="./Призрак.png" width="100" height="100"><br>
+Призрак.png
+</td>
+
+<td valign="bottom">
+<img src="./Размария.png" width="100" height="100"><br>
+Размария.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
 <img src="./Севен.png" width="100" height="100"><br>
 Севен.png
 </td>
@@ -164,8 +176,6 @@
 Сорен.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Табакси.png" width="100" height="100"><br>
 Табакси.png
@@ -186,6 +196,8 @@
 Феламелочка.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Флора.png" width="100" height="100"><br>
 Флора.png
@@ -196,8 +208,6 @@
 Хеки.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Чато1.png" width="100" height="100"><br>
 Чато1.png

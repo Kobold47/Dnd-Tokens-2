@@ -103,6 +103,11 @@
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./Корабль2.jpg" width="100" height="100"><br>
+Корабль2.jpg
+</td>
+
+<td valign="bottom">
 <img src="./Логово Зелёной а1.jpg" width="100" height="100"><br>
 Логово Зелёной а1.jpg
 </td>
@@ -127,13 +132,13 @@
 Подземье 2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Подножье Башни.jpg" width="100" height="100"><br>
 Подножье Башни.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Рифемист.jpeg" width="100" height="100"><br>
 Рифемист.jpeg
