@@ -144,4 +144,9 @@
 Рифемист.jpeg
 </td>
 
+<td valign="bottom">
+<img src="./Руины.jpg" width="100" height="100"><br>
+Руины.jpg
+</td>
+
 </tr></table>
