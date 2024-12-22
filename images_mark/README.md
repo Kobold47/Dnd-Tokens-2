@@ -17,6 +17,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Арканис.png" width="100" height="100"><br>
+Арканис.png
+</td>
+
+<td valign="bottom">
 <img src="./Блуждающий огонёк.png" width="100" height="100"><br>
 Блуждающий огонёк.png
 </td>
@@ -31,13 +36,13 @@
 Бурый Увалень.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Венцед.False.png" width="100" height="100"><br>
 Венцед.False.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ВердаСкел.png" width="100" height="100"><br>
 ВердаСкел.png
@@ -63,13 +68,18 @@
 Генрих.png
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Глазодрейк.png" width="100" height="100"><br>
+Глазодрейк.png
+</td>
+
 <td valign="bottom">
 <img src="./Дарк.png" width="100" height="100"><br>
 Дарк.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Дракон.Зел.png" width="100" height="100"><br>
 Дракон.Зел.png
@@ -83,6 +93,28 @@
 <td valign="bottom">
 <img src="./Зорбо.png" width="100" height="100"><br>
 Зорбо.png
+</td>
+
+<td valign="bottom">
+<img src="./Караст.png" width="100" height="100"><br>
+Караст.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Костолом.png" width="100" height="100"><br>
+Костолом.png
+</td>
+
+<td valign="bottom">
+<img src="./Кромсатель.png" width="100" height="100"><br>
+Кромсатель.png
+</td>
+
+<td valign="bottom">
+<img src="./Култист.png" width="100" height="100"><br>
+Култист.png
 </td>
 
 <td valign="bottom">

@@ -145,8 +145,23 @@
 </td>
 
 <td valign="bottom">
-<img src="./Руины.jpg" width="100" height="100"><br>
-Руины.jpg
+<img src="./Руины 1.jpg" width="100" height="100"><br>
+Руины 1.jpg
+</td>
+
+<td valign="bottom">
+<img src="./Руины 2.jpg" width="100" height="100"><br>
+Руины 2.jpg
+</td>
+
+<td valign="bottom">
+<img src="./Руины а1.jpg" width="100" height="100"><br>
+Руины а1.jpg
+</td>
+
+<td valign="bottom">
+<img src="./Руины а2.jpg" width="100" height="100"><br>
+Руины а2.jpg
 </td>
 
 </tr></table>
