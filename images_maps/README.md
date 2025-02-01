@@ -27,8 +27,8 @@
 </td>
 
 <td valign="bottom">
-<img src="./Данжен 1.jpg" width="100" height="100"><br>
-Данжен 1.jpg
+<img src="./Данжен а1.jpg" width="100" height="100"><br>
+Данжен а1.jpg
 </td>
 
 <td valign="bottom">
