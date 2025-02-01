@@ -27,17 +27,22 @@
 </td>
 
 <td valign="bottom">
+<img src="./Данжен 1.jpg" width="100" height="100"><br>
+Данжен 1.jpg
+</td>
+
+<td valign="bottom">
 <img src="./Джунгли 0.mp4" width="100" height="100"><br>
 Джунгли 0.mp4
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Джунгли 1.jpg" width="100" height="100"><br>
 Джунгли 1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Джунгли 2.jpg" width="100" height="100"><br>
 Джунгли 2.jpg
@@ -63,13 +68,13 @@
 Джунгли 5.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Джунгли 6.jpg" width="100" height="100"><br>
 Джунгли 6.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ЗмеиныйПик.jpg" width="100" height="100"><br>
 ЗмеиныйПик.jpg
@@ -95,13 +100,13 @@
 Корабль 2.jpeg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Корабль.jpg" width="100" height="100"><br>
 Корабль.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Корабль.png" width="100" height="100"><br>
 Корабль.png
@@ -127,13 +132,13 @@
 Подземье 1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Подземье 2.jpg" width="100" height="100"><br>
 Подземье 2.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Подножье Башни.jpg" width="100" height="100"><br>
 Подножье Башни.jpg
@@ -159,6 +164,8 @@
 Руины а1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Руины а2.jpg" width="100" height="100"><br>
 Руины а2.jpg

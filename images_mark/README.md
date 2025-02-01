@@ -118,6 +118,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Куролиск.png" width="100" height="100"><br>
+Куролиск.png
+</td>
+
+<td valign="bottom">
 <img src="./Лавлейс.png" width="100" height="100"><br>
 Лавлейс.png
 </td>
@@ -127,13 +132,13 @@
 Магмовая Панцирница.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Мимик 1.png" width="100" height="100"><br>
 Мимик 1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Мимик 2.png" width="100" height="100"><br>
 Мимик 2.png
@@ -159,13 +164,13 @@
 Панцирница Нежить.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Панцирница.png" width="100" height="100"><br>
 Панцирница.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Пират1.png" width="100" height="100"><br>
 Пират1.png
@@ -191,13 +196,13 @@
 Поглотитель.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ПодДавлением.png" width="100" height="100"><br>
 ПодДавлением.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Призрак.png" width="100" height="100"><br>
 Призрак.png
@@ -223,13 +228,18 @@
 Сорен.png
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Статуя Льва.png" width="100" height="100"><br>
+Статуя Льва.png
+</td>
+
 <td valign="bottom">
 <img src="./Табакси.png" width="100" height="100"><br>
 Табакси.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Текила.png" width="100" height="100"><br>
 Текила.png
@@ -250,6 +260,8 @@
 Фауналин.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Феламелочка.png" width="100" height="100"><br>
 Феламелочка.png
@@ -260,8 +272,6 @@
 Флора.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Хеки.png" width="100" height="100"><br>
 Хеки.png
@@ -282,6 +292,8 @@
 Элис2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Эорский обратитель .png" width="100" height="100"><br>
 Эорский обратитель .png
