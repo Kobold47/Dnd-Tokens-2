@@ -64,12 +64,17 @@
 </td>
 
 <td valign="bottom">
-<img src="./Генрих.png" width="100" height="100"><br>
-Генрих.png
+<img src="./Генрих 2 bad.png" width="100" height="100"><br>
+Генрих 2 bad.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./Генрих.png" width="100" height="100"><br>
+Генрих.png
+</td>
+
 <td valign="bottom">
 <img src="./Глазодрейк.png" width="100" height="100"><br>
 Глазодрейк.png
@@ -95,13 +100,13 @@
 Зорбо.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Караст.png" width="100" height="100"><br>
 Караст.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Костолом.png" width="100" height="100"><br>
 Костолом.png
@@ -127,13 +132,13 @@
 Лавлейс.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Магмовая Панцирница.png" width="100" height="100"><br>
 Магмовая Панцирница.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Мимик 1.png" width="100" height="100"><br>
 Мимик 1.png
@@ -159,13 +164,13 @@
 Н.а.к.р.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Панцирница Нежить.png" width="100" height="100"><br>
 Панцирница Нежить.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Панцирница.png" width="100" height="100"><br>
 Панцирница.png
@@ -191,13 +196,13 @@
 Повар.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Поглотитель.png" width="100" height="100"><br>
 Поглотитель.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ПодДавлением.png" width="100" height="100"><br>
 ПодДавлением.png
@@ -223,13 +228,13 @@
 Севен.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Сорен.png" width="100" height="100"><br>
 Сорен.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Статуя Льва.png" width="100" height="100"><br>
 Статуя Льва.png
@@ -255,13 +260,13 @@
 Фаль.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Фауналин.png" width="100" height="100"><br>
 Фауналин.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Феламелочка.png" width="100" height="100"><br>
 Феламелочка.png
@@ -287,13 +292,13 @@
 Элис.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Элис2.png" width="100" height="100"><br>
 Элис2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Эорский обратитель .png" width="100" height="100"><br>
 Эорский обратитель .png
