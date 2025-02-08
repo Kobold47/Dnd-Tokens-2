@@ -76,6 +76,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Джунгли 7.jpg" width="100" height="100"><br>
+Джунгли 7.jpg
+</td>
+
+<td valign="bottom">
 <img src="./ЗмеиныйПик.jpg" width="100" height="100"><br>
 ЗмеиныйПик.jpg
 </td>
@@ -95,13 +100,13 @@
 Карета.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Корабль 2.jpeg" width="100" height="100"><br>
 Корабль 2.jpeg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Корабль.jpg" width="100" height="100"><br>
 Корабль.jpg
@@ -127,13 +132,13 @@
 Ниирдал-Пок.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Подземье 1.jpg" width="100" height="100"><br>
 Подземье 1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Подземье 2.jpg" width="100" height="100"><br>
 Подземье 2.jpg
@@ -159,13 +164,13 @@
 Руины 2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Руины а1.jpg" width="100" height="100"><br>
 Руины а1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Руины а2.jpg" width="100" height="100"><br>
 Руины а2.jpg
