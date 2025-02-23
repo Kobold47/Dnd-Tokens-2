@@ -7,6 +7,11 @@
 <table><tr>
 <tr>
 <td valign="bottom">
+<img src="./canalizatsia.jpg" width="100" height="100"><br>
+canalizatsia.jpg
+</td>
+
+<td valign="bottom">
 <img src="./Untitled ddd.dam" width="100" height="100"><br>
 Untitled ddd.dam
 </td>
@@ -31,13 +36,13 @@ Untitled ddd.dam
 Вершина Башни.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Город 1.jpg" width="100" height="100"><br>
 Город 1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Данжен а1.jpg" width="100" height="100"><br>
 Данжен а1.jpg
@@ -63,13 +68,13 @@ Untitled ddd.dam
 Джунгли 3.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Джунгли 4.jpg" width="100" height="100"><br>
 Джунгли 4.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Джунгли 4a.jpg" width="100" height="100"><br>
 Джунгли 4a.jpg
@@ -95,13 +100,13 @@ Untitled ddd.dam
 ЗмеиныйПик.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Золотой Город 2.jpg" width="100" height="100"><br>
 Золотой Город 2.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Золотой Город.jpg" width="100" height="100"><br>
 Золотой Город.jpg
@@ -127,13 +132,13 @@ Untitled ddd.dam
 Корабль.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Логово Зелёной а1.jpg" width="100" height="100"><br>
 Логово Зелёной а1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Логово Зелёной а2.jpg" width="100" height="100"><br>
 Логово Зелёной а2.jpg
@@ -159,13 +164,13 @@ Untitled ddd.dam
 Подножье Башни.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Рифемист.jpeg" width="100" height="100"><br>
 Рифемист.jpeg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Руины 1.jpg" width="100" height="100"><br>
 Руины 1.jpg
