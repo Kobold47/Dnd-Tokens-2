@@ -108,6 +108,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Кидемонас.png" width="100" height="100"><br>
+Кидемонас.png
+</td>
+
+<td valign="bottom">
 <img src="./Костолом.png" width="100" height="100"><br>
 Костолом.png
 </td>
@@ -127,13 +132,13 @@
 Куролиск.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Лавлейс.png" width="100" height="100"><br>
 Лавлейс.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Магмовая Панцирница.png" width="100" height="100"><br>
 Магмовая Панцирница.png
@@ -159,13 +164,13 @@
 Мисая.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./монах.png" width="100" height="100"><br>
 монах.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Н.а.к.р.png" width="100" height="100"><br>
 Н.а.к.р.png
@@ -191,13 +196,13 @@
 Пират2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./плут.png" width="100" height="100"><br>
 плут.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Повар.png" width="100" height="100"><br>
 Повар.png
@@ -223,13 +228,13 @@
 Размария.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Ридиус.png" width="100" height="100"><br>
 Ридиус.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Севен.png" width="100" height="100"><br>
 Севен.png
@@ -255,13 +260,13 @@
 Текила.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Тень.png" width="100" height="100"><br>
 Тень.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Фаль.png" width="100" height="100"><br>
 Фаль.png
@@ -287,13 +292,13 @@
 Хеки.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Чато1.png" width="100" height="100"><br>
 Чато1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Элис.png" width="100" height="100"><br>
 Элис.png
