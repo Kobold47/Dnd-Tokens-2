@@ -300,6 +300,11 @@
 </td>
 
 <td valign="bottom">
+<img src="./Чистокровка.png" width="100" height="100"><br>
+Чистокровка.png
+</td>
+
+<td valign="bottom">
 <img src="./Элис.png" width="100" height="100"><br>
 Элис.png
 </td>

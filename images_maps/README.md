@@ -12,6 +12,11 @@ canalizatsia.jpg
 </td>
 
 <td valign="bottom">
+<img src="./GOLDENCITY.jpg" width="100" height="100"><br>
+GOLDENCITY.jpg
+</td>
+
+<td valign="bottom">
 <img src="./OMEGAmini2.jpg" width="100" height="100"><br>
 OMEGAmini2.jpg
 </td>
@@ -31,13 +36,13 @@ OMEGAmini2.jpg
 Бастион а2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Вершина Башни.png" width="100" height="100"><br>
 Вершина Башни.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Город 1.jpg" width="100" height="100"><br>
 Город 1.jpg
@@ -63,13 +68,13 @@ OMEGAmini2.jpg
 Джунгли 2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Джунгли 3.jpg" width="100" height="100"><br>
 Джунгли 3.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Джунгли 4.jpg" width="100" height="100"><br>
 Джунгли 4.jpg
@@ -95,13 +100,13 @@ OMEGAmini2.jpg
 Джунгли 7.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ЗмеиныйПик.jpg" width="100" height="100"><br>
 ЗмеиныйПик.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Золотой Город 2.jpg" width="100" height="100"><br>
 Золотой Город 2.jpg
@@ -127,13 +132,13 @@ OMEGAmini2.jpg
 Корабль.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Корабль.png" width="100" height="100"><br>
 Корабль.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Логово Зелёной а1.jpg" width="100" height="100"><br>
 Логово Зелёной а1.jpg
@@ -159,13 +164,13 @@ OMEGAmini2.jpg
 Подземье 2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Подножье Башни.jpg" width="100" height="100"><br>
 Подножье Башни.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Рифемист.jpeg" width="100" height="100"><br>
 Рифемист.jpeg
