@@ -12,6 +12,11 @@ canalizatsia.jpg
 </td>
 
 <td valign="bottom">
+<img src="./GOLDENCITY 2.jpg" width="100" height="100"><br>
+GOLDENCITY 2.jpg
+</td>
+
+<td valign="bottom">
 <img src="./GOLDENCITY.jpg" width="100" height="100"><br>
 GOLDENCITY.jpg
 </td>
@@ -31,13 +36,13 @@ Underdark1.jpg
 Аренаjpg.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Бастион а1.jpg" width="100" height="100"><br>
 Бастион а1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Бастион а2.jpg" width="100" height="100"><br>
 Бастион а2.jpg
@@ -63,13 +68,13 @@ Underdark1.jpg
 Джунгли 0.mp4
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Джунгли 1.jpg" width="100" height="100"><br>
 Джунгли 1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Джунгли 2.jpg" width="100" height="100"><br>
 Джунгли 2.jpg
@@ -95,13 +100,13 @@ Underdark1.jpg
 Джунгли 5.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Джунгли 6.jpg" width="100" height="100"><br>
 Джунгли 6.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Джунгли 7.jpg" width="100" height="100"><br>
 Джунгли 7.jpg
@@ -127,13 +132,13 @@ Underdark1.jpg
 Карета.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Корабль 2.jpeg" width="100" height="100"><br>
 Корабль 2.jpeg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Корабль.jpg" width="100" height="100"><br>
 Корабль.jpg
@@ -159,13 +164,13 @@ Underdark1.jpg
 Ниирдал-Пок.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Подземье 1.jpg" width="100" height="100"><br>
 Подземье 1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Подземье 2.jpg" width="100" height="100"><br>
 Подземье 2.jpg
@@ -191,13 +196,13 @@ Underdark1.jpg
 Руины 2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Руины а1.jpg" width="100" height="100"><br>
 Руины а1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Руины а2.jpg" width="100" height="100"><br>
 Руины а2.jpg
