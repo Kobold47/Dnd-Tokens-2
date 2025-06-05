@@ -711,6 +711,11 @@ tyler-edlin-tyler-edlin-sunbathe.jpg
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./upscalemedia-transformed (2).jpeg" width="100" height="100"><br>
+upscalemedia-transformed (2).jpeg
+</td>
+
+<td valign="bottom">
 <img src="./vr.jpg" width="100" height="100"><br>
 vr.jpg
 </td>
