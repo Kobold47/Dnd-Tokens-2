@@ -54,6 +54,11 @@ Geia.png
 </td>
 
 <td valign="bottom">
+<img src="./Gerald.png" width="100" height="100"><br>
+Gerald.png
+</td>
+
+<td valign="bottom">
 <img src="./GRIMDARK.png" width="100" height="100"><br>
 GRIMDARK.png
 </td>
@@ -63,13 +68,18 @@ GRIMDARK.png
 Killer_frog.png
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Skelet.png" width="100" height="100"><br>
+Skelet.png
+</td>
+
 <td valign="bottom">
 <img src="./Yuanti1.png" width="100" height="100"><br>
 Yuanti1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Yuanti2.png" width="100" height="100"><br>
 Yuanti2.png
@@ -90,6 +100,8 @@ Yuanti3.png
 Амелия.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Арканис.png" width="100" height="100"><br>
 Арканис.png
@@ -100,8 +112,6 @@ Yuanti3.png
 Блуждающий огонёк.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Бочка.png" width="100" height="100"><br>
 Бочка.png
@@ -122,6 +132,8 @@ Yuanti3.png
 ВердаСкел.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Виверна.png" width="100" height="100"><br>
 Виверна.png
@@ -132,8 +144,6 @@ Yuanti3.png
 Вильям.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Водалиций.png" width="100" height="100"><br>
 Водалиций.png
@@ -154,6 +164,8 @@ Yuanti3.png
 Глазодрейк.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Дарк.png" width="100" height="100"><br>
 Дарк.png
@@ -164,8 +176,6 @@ Yuanti3.png
 Дракон.Зел.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Жасмин.png" width="100" height="100"><br>
 Жасмин.png
@@ -186,6 +196,8 @@ Yuanti3.png
 Кидемонас.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Костолом.png" width="100" height="100"><br>
 Костолом.png
@@ -196,8 +208,6 @@ Yuanti3.png
 Кромсатель.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Култист.png" width="100" height="100"><br>
 Култист.png
@@ -218,6 +228,8 @@ Yuanti3.png
 Магмовая Панцирница.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Мантикора.png" width="100" height="100"><br>
 Мантикора.png
@@ -228,8 +240,6 @@ Yuanti3.png
 Мимик 1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Мимик 2.png" width="100" height="100"><br>
 Мимик 2.png
@@ -250,6 +260,8 @@ Yuanti3.png
 Н.а.к.р.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Панцирница Нежить.png" width="100" height="100"><br>
 Панцирница Нежить.png
@@ -260,8 +272,6 @@ Yuanti3.png
 Панцирница.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Пират1.png" width="100" height="100"><br>
 Пират1.png
@@ -282,6 +292,8 @@ Yuanti3.png
 Повар.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Поглотитель.png" width="100" height="100"><br>
 Поглотитель.png
@@ -292,8 +304,6 @@ Yuanti3.png
 ПодДавлением.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Призрак.png" width="100" height="100"><br>
 Призрак.png
@@ -314,6 +324,8 @@ Yuanti3.png
 Севен.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Сорен.png" width="100" height="100"><br>
 Сорен.png
@@ -324,8 +336,6 @@ Yuanti3.png
 Статуя Льва.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Табакси.png" width="100" height="100"><br>
 Табакси.png
@@ -346,6 +356,8 @@ Yuanti3.png
 Фаль.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Фауналин.png" width="100" height="100"><br>
 Фауналин.png
@@ -356,8 +368,6 @@ Yuanti3.png
 Феламелочка.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Флора.png" width="100" height="100"><br>
 Флора.png
@@ -378,6 +388,8 @@ Yuanti3.png
 Чистокровка.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Элис.png" width="100" height="100"><br>
 Элис.png
@@ -388,8 +400,6 @@ Yuanti3.png
 Элис2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Эорский обратитель .png" width="100" height="100"><br>
 Эорский обратитель .png
