@@ -32,15 +32,15 @@ OMEGAmini2.jpg
 </td>
 
 <td valign="bottom">
-<img src="./Underdark1.jpg" width="100" height="100"><br>
-Underdark1.jpg
+<img src="./Screenshot 2025-08-09 203140.png" width="100" height="100"><br>
+Screenshot 2025-08-09 203140.png
 </td>
 
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./Underdark10.png" width="100" height="100"><br>
-Underdark10.png
+<img src="./Underdark1.jpg" width="100" height="100"><br>
+Underdark1.jpg
 </td>
 
 <td valign="bottom">
