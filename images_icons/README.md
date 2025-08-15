@@ -231,8 +231,8 @@ nondetection.png
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./opqA13wz1.png" width="100" height="100"><br>
-opqA13wz1.png
+<img src="./opqA13wz1 — копия.png" width="100" height="100"><br>
+opqA13wz1 — копия.png
 </td>
 
 <td valign="bottom">
