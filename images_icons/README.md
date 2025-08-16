@@ -1100,6 +1100,26 @@ thunderwave.png
 </td>
 
 <td valign="bottom">
+<img src="./token1_1 (44).png" width="100" height="100"><br>
+token1_1 (44).png
+</td>
+
+<td valign="bottom">
+<img src="./token_1 (44).png" width="100" height="100"><br>
+token_1 (44).png
+</td>
+
+<td valign="bottom">
+<img src="./token_1_43.png" width="100" height="100"><br>
+token_1_43.png
+</td>
+
+<td valign="bottom">
+<img src="./token_2 (20).png" width="100" height="100"><br>
+token_2 (20).png
+</td>
+
+<td valign="bottom">
 <img src="./апра.jpg" width="100" height="100"><br>
 апра.jpg
 </td>
